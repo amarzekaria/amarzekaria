@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amara</h1>
+<h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A cybersecurity student who just posts his course work and fun projects</h3>
 
 ### Skills:
