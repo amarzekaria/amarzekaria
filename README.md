@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amara</h1>
 <h3 align="center">A cybersecurity student who just posts his course work and fun projects</h3>
 
-- 💬 Skills:
+### Skills:
   
-Python: I have a strong command of Python and use it for regulatory projects and coursework.
+Python: I am most proficient in Python as I use it for regulatory projects and coursework. 
+Courses I've taken with Python: Intro to programming, Data Structures and Algorithms
 
 Cybersecurity: I have knowledge in cybersecurity concepts such as network security, encryption, penetration testing, and security best practices. 
 
